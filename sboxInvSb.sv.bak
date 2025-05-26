@@ -1,0 +1,5 @@
+module sboxInvSb(in, out);
+
+
+
+endmodule

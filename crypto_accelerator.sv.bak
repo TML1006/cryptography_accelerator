@@ -1,0 +1,6 @@
+module cryptoAccelerator(clk, reset);
+
+
+
+
+endmodule

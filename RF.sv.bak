@@ -1,0 +1,7 @@
+module RF(Rn, Rm, Rd, ReadData1, ReadData2, writeEnable, );
+	
+	
+	controlLogic cl();
+
+endmodule
+
